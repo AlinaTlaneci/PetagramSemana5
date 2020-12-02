@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mathias</string>
+    <string name="favs">Favoritos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mo_acerca_de">Acerca de</string>
+    <string name="mo_contacto">Contacto</string>
+    <string name="decripcion_avatar">Prototipo de desarrolladora (:</string>
+    <string name="contacto_nombre">Nombre</string>
+    <string name="contacto_email">Correo</string>
+    <string name="contacto_mensaje">Mensaje...</string>
+    <string name="contacto_boton_enviar">Enviar comentario</string>
+    <string name="parametro_nombre">nombre</string>
+    <string name="parametro_mensaje">mensaje</string>
+    <string name="parametro_pemail">email</string>
+    <string name="perfil_mathias">Mathias</string>
+</resources>
